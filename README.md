@@ -8,6 +8,8 @@ Inside the `Solutions` folder, you'll find:
 * Folder with the codes I’ve written for each problem
 * Documentation explaining each solution and complexity analysis (both time and space)
 
+I'm a Computer Engineering student currently learning C++, git and problem-solving for job interviews, so please note that some solutions may not be the best ones.
+
 ---
 
 ## 🎯 Solution Approach
